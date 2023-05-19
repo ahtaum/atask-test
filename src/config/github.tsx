@@ -1,6 +1,6 @@
 import axios from "axios"
 
-let API_TOKEN = "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"
+let API_TOKEN = "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"
 let API_CONFIG = {
   headers: {
     Authorization: `token ${API_TOKEN}`
